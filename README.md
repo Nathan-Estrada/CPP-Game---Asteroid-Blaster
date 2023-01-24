@@ -18,3 +18,6 @@ Press Esc at any time to end game
 
 
 Destroy as many asteroids as you can before running out of health. Asteroids that make it past the player causes the player to lose health.
+
+
+![Asteroid Blaster Screenshot](https://user-images.githubusercontent.com/106173187/214444699-9a3b87cc-d7ee-4e89-a05b-a54ee4d202ad.JPG)
